@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistributedTask.Console.Client", "DistributedTask.Console.Client\DistributedTask.Console.Client.csproj", "{98D04AB8-C5FF-4963-BB94-5788C231813B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistributedTask.Core", "DistributedTask.Core\DistributedTask.Core.csproj", "{75A375C6-50D8-4CB3-89E7-06D62382C14B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistributedTask.Console.Server", "DistributedTask.Console.Server\DistributedTask.Console.Server.csproj", "{DCC5A8A5-D3C3-4650-BF2A-A5C30B9175A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98D04AB8-C5FF-4963-BB94-5788C231813B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98D04AB8-C5FF-4963-BB94-5788C231813B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98D04AB8-C5FF-4963-BB94-5788C231813B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98D04AB8-C5FF-4963-BB94-5788C231813B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75A375C6-50D8-4CB3-89E7-06D62382C14B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75A375C6-50D8-4CB3-89E7-06D62382C14B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75A375C6-50D8-4CB3-89E7-06D62382C14B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75A375C6-50D8-4CB3-89E7-06D62382C14B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCC5A8A5-D3C3-4650-BF2A-A5C30B9175A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCC5A8A5-D3C3-4650-BF2A-A5C30B9175A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCC5A8A5-D3C3-4650-BF2A-A5C30B9175A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCC5A8A5-D3C3-4650-BF2A-A5C30B9175A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2EA028A-7BF8-4802-9432-81FA732A4B9B}
+	EndGlobalSection
+EndGlobal
