@@ -12,9 +12,9 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2275C694-35D7-4657-98B3-4644AC54307F}"
 	ProjectSection(SolutionItems) = preProject
 		LICENSE.txt = LICENSE.txt
-		C:\Users\kimit\OneDrive\ドキュメント\勉強\ゼミ\NotSimpleTask.jpg = C:\Users\kimit\OneDrive\ドキュメント\勉強\ゼミ\NotSimpleTask.jpg
+		NotSimpleTask.jpg = NotSimpleTask.jpg
 		README.md = README.md
-		C:\Users\kimit\OneDrive\ドキュメント\勉強\ゼミ\SimpleTask.jpg = C:\Users\kimit\OneDrive\ドキュメント\勉強\ゼミ\SimpleTask.jpg
+		SimpleTask.jpg = SimpleTask.jpg
 	EndProjectSection
 EndProject
 Global
