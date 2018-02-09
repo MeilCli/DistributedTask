@@ -9,6 +9,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistributedTask.Core", "Dis
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistributedTask.Console.Server", "DistributedTask.Console.Server\DistributedTask.Console.Server.csproj", "{DCC5A8A5-D3C3-4650-BF2A-A5C30B9175A6}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2275C694-35D7-4657-98B3-4644AC54307F}"
+	ProjectSection(SolutionItems) = preProject
+		LICENSE.txt = LICENSE.txt
+		C:\Users\kimit\OneDrive\ドキュメント\勉強\ゼミ\NotSimpleTask.jpg = C:\Users\kimit\OneDrive\ドキュメント\勉強\ゼミ\NotSimpleTask.jpg
+		README.md = README.md
+		C:\Users\kimit\OneDrive\ドキュメント\勉強\ゼミ\SimpleTask.jpg = C:\Users\kimit\OneDrive\ドキュメント\勉強\ゼミ\SimpleTask.jpg
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
